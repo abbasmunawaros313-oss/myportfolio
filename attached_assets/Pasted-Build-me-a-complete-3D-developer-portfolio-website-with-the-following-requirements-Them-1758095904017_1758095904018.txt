@@ -1,0 +1,75 @@
+Build me a complete **3D developer portfolio website** with the following requirements:
+
+🎨 **Theme & Style**
+- Dark, modern, elegant, smooth UI
+- Tech-inspired design with neon gradients (teal, purple, blue glow effects)
+- Background with interactive **3D bubbles or particles** that react to mouse movement
+- Smooth **scroll animations** using GSAP & Framer Motion
+- Responsive (mobile, tablet, desktop)
+
+🖼️ **Layout**
+1. **Hero Section**  
+   - Animated text: "Munawar Abbas"  
+   - Subtitle with animation: "Frontend Developer / Full Stack Engineer" (should switch automatically between roles)  
+   - Background: animated 3D scene with particles / bubbles / mouse interactivity  
+   - Call to Action button → "View My Work" (scrolls down)  
+
+2. **About Section**  
+   - Photo/Avatar of Munawar Abbas (placeholder if none uploaded)  
+   - Text bio:  
+     "Hi, I’m Munawar Abbas. I hold a BS in Computer Science from Air University Islamabad. Passionate about building scalable, interactive, and modern web applications using React, Redux, Firebase, Node.js, Express, FastAPI, Python, C, C++, Stripe, TailwindCSS, GSAP, and more."  
+   - Download CV button  
+
+3. **Skills Section**  
+   - Interactive 3D skill cloud (React, Redux, Firebase, Node.js, Express, FastAPI, Python, C, C++, JS, HTML, CSS, TailwindCSS, GSAP, Framer Motion, React Icons, Stripe, MongoDB, MySQL, GitHub, Vercel, Replit)  
+   - Animated cards with hover effect  
+
+4. **Projects Section**  
+   Display **12 real-world projects** with image previews, descriptions, and tech stack badges. Use a **3D card flip animation**. Projects:  
+   - Travel Agency Management Portal → Used by 8 companies with 80–90 employees, features: bookings, employee auth, reporting  
+   - E-commerce Store → Full cart, checkout, Stripe payments, Firebase backend  
+   - Food Delivery Website → Restaurant listing, live order tracking, payment system  
+   - Book Store → Catalog, search, shopping cart  
+   - Hotel Booking Portal  
+   - Task Management App (Kanban style with drag-and-drop)  
+   - Real-time Chat App (Firebase + React)  
+   - Portfolio 3D site (this one)  
+   - Blogging Platform (Markdown support + auth)  
+   - School Management Portal  
+   - Fitness Tracker App (with charts and dashboards)  
+   - Finance Dashboard (analytics + Stripe payments)  
+
+   Each project card:  
+   - Title  
+   - Description  
+   - Tech stack (React, Firebase, Node, etc.)  
+   - Live demo link + GitHub link  
+
+5. **Contact Section**  
+   - Email: munawargolden3@gmail.com  
+   - Phone: 03135506223  
+   - Animated contact form (name, email, message) → Send to Firebase/EmailJS backend  
+   - Social media icons (GitHub, LinkedIn, etc.) with hover animation  
+
+6. **Footer**  
+   - "© 2025 Munawar Abbas – Built with ❤️ using React & Three.js"  
+
+⚙️ **Tech Stack**  
+- React + Vite  
+- Three.js (for 3D background/animations)  
+- Framer Motion + GSAP (for smooth animations)  
+- TailwindCSS (styling)  
+- Firebase (backend, auth, DB, hosting if needed)  
+- Node.js + Express (for future backend APIs)  
+- EmailJS or Firebase Functions for contact form  
+
+🌐 **Extra Features**  
+- Animated cursor effects  
+- Dark/Light toggle (optional)  
+- Performance optimized for web + mobile  
+- SEO optimized  
+
+📌 **Delivery**  
+- Full React project with clean folder structure  
+- All animations smooth & optimized  
+- Responsive across all devices  
